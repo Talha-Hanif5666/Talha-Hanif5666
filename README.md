@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Talha Hanif</h1>
-<h3 align="center">Front End Developer and Mechanical Engineer</h3>
+<h3 align="center">Full Stack Developer and Mechanical Engineer</h3>
 <p> 
   ☑️ 👀 I’m interested in Web development <br/>
   ☑️ 🌱 I’m currently learning Web development at Microverse **Ruby on Rails, React** <br/>
